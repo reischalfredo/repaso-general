@@ -1,0 +1,4 @@
+img { width: 15%; height: 15%; padding-left: 15px; padding-top: 20px;}
+h1 {padding-left: 20px; padding-top: 20px; text-align: center;}
+div { display: inline-flex; text-align:inherit; }
+input { margin-left: 40px; margin-top: 20px; }

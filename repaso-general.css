@@ -1,0 +1,8 @@
+span { display: inline-flex; text-align:inherit; }
+rounded-circle {  width: 15px; height: 15px; }
+.foto { width: 250px;
+    height: 250px;} 
+h1 { padding-left: 90px; padding-top: 60px; }
+img {  width: 450px; height: 450px;  }
+.d-block { padding-left: 90px; padding-right: 90px;}
+a .carousel-control-prev { border-color: black }
